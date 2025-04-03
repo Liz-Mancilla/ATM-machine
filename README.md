@@ -1,5 +1,15 @@
 # ATM Homework Assignment
 
+## Install Docker
+
+On Mac:
+
+[Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
+
+On Windows:
+
+[Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
+
 ## To setup ...
 
 #### 1. Clone current repo to your local
